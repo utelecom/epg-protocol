@@ -1,9 +1,9 @@
 {
-    "name": "iptv/epg-protocol",
+    "name": "utelecom/epg-protocol",
     "description": "Protocol for EPG Service",
     "version": "0.1",
     "type": "library",
-    "license": "proprietal",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Anton Eliseenko",
