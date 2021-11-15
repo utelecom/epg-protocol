@@ -1,7 +1,6 @@
 {
     "name": "utg/epg-protocol",
     "description": "Protocol for EPG Service",
-    "version": "0.1",
     "type": "library",
     "license": "proprietary",
     "authors": [
