@@ -1,6 +1,12 @@
 <?php
 
-namespace Utelecom\EpgProtocol\EpgProgram;
+namespace Utelecom\EpgProtocol;
+
+use Utelecom\EpgProtocol\EpgProgram\EpgProgramImage;
+use Utelecom\EpgProtocol\EpgProgram\EpgProgramRating;
+use Utelecom\EpgProtocol\EpgProgram\EpgProgramStream;
+use Utelecom\EpgProtocol\EpgProgram\EpgProgramTranslation;
+use Utelecom\EpgProtocol\EpgProgram\EpgProgramVote;
 
 final class EpgProgram
 {
