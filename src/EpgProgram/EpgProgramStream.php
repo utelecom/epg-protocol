@@ -1,6 +1,6 @@
 <?php
 
-namespace Utelecom\EpgProtocol\Program;
+namespace Utelecom\EpgProtocol\EpgProgram;
 
 class EpgProgramStream
 {

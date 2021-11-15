@@ -1,11 +1,12 @@
 <?php
 
-namespace Utelecom\EpgProtocol\Program;
+namespace Utelecom\EpgProtocol\EpgProgram;
 
 final class EpgProgramImage
 {
     public const POSITION_PORTRAIT = 'portrait';
     public const POSITION_ALBUM = 'album';
+
     /**
      * @example //epg.prosto.tv/0123456789.jpg
      */

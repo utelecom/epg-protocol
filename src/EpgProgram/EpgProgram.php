@@ -1,24 +1,10 @@
 <?php
 
-namespace Utelecom\EpgProtocol\Program;
+namespace Utelecom\EpgProtocol\EpgProgram;
 
-use ApiPlatform\Core\Annotation\ApiProperty;
-use ApiPlatform\Core\Annotation\ApiResource;
-
-/**
- * @ApiResource(
- *     collectionOperations={
- *         "get"
- *     },
- *     itemOperations={
- *         "get"
- *     }
- * )
- */
 final class EpgProgram
 {
     /**
-     * @ApiProperty(identifier=true)
      * @example 9669020b-0354-45b4-8d82-918fc035b2b7
      */
     public string $id;
