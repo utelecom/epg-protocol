@@ -1,0 +1,21 @@
+{
+    "name": "iptv/epg-protocol",
+    "description": "Protocol for EPG Service",
+    "version": "0.1",
+    "type": "library",
+    "license": "proprietal",
+    "authors": [
+        {
+            "name": "Anton Eliseenko",
+            "email": "toxxxa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Utelecom\\EpgProtocol\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4"
+    }
+}
