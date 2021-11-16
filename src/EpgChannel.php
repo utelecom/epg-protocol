@@ -2,8 +2,8 @@
 
 namespace Utelecom\EpgProtocol;
 
-use Utelecom\EpgProtocol\EpgProgram\EpgChannelImage;
-use Utelecom\EpgProtocol\EpgProgram\EpgChannelTranslation;
+use Utelecom\EpgProtocol\EpgChannel\EpgChannelImage;
+use Utelecom\EpgProtocol\EpgChannel\EpgChannelTranslation;
 
 class EpgChannel
 {
