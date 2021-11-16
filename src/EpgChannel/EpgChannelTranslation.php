@@ -1,6 +1,6 @@
 <?php
 
-namespace Utelecom\EpgProtocol\EpgProgram;
+namespace Utelecom\EpgProtocol\EpgChannel;
 
 class EpgChannelTranslation
 {
