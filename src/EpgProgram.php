@@ -60,11 +60,11 @@ final class EpgProgram
      */
     public array $images = [];
 
-    public ?string $year;
+    public ?string $year = null;
 
-    public ?EpgProgramRating $rating;
+    public ?EpgProgramRating $rating = null;
 
-    public ?EpgProgramVote $vote;
+    public ?EpgProgramVote $vote = null;
 
     /**
      * @var EpgProgramStream[]

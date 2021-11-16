@@ -8,9 +8,9 @@ class EpgProgramTranslation
 
     public string $title;
 
-    public ?string $announce;
+    public ?string $announce = null;
 
-    public ?string $description;
+    public ?string $description = null;
 
     /**
      * @var string[]

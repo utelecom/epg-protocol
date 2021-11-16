@@ -9,12 +9,12 @@ class EpgChannel
 {
     public string $id;
 
-    public ?int $position;
+    public ?int $position = null;
 
     /**
      * @todo
      */
-    public ?int $genreId;
+    public ?int $genreId = null;
 
     /**
      * @var EpgChannelTranslation[]
